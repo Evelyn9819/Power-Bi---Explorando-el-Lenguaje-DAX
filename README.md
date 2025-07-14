@@ -52,8 +52,7 @@ Se implementó una tabla de calendario personalizada utilizando DAX para habilit
 
 ## 🖼️ Vista del dashboard final
 
-![Dashboard Final](ruta/a/tu/imagen.png) <!-- Reemplaza con la ruta real del archivo o un link -->
-
+![Dashboard Final](https://github.com/Evelyn9819/Power-Bi---Explorando-el-Lenguaje-DAX/blob/main/DASHBOARD%20VENTA%20DE%20CONSOLAS%20-GAMESTOP.PNG)
 ---
 
 ## 🧠 Lecciones aprendidas
